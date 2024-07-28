@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "qck.h": "c",
+    "stdio.h": "c",
+    "stdlib.h": "c"
+  }
+}
